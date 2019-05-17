@@ -1,0 +1,24 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".ycombinator.com"
+  [url-cookie "__cfduid" "d0a742287d5ca409a0b11d17f913d851f1503227815" "20 Aug 18 11:16:55 [GMT]" "/" ".ycombinator.com" nil]
+  [url-cookie "HttpOnly" nil "20 Aug 18 11:16:55 [GMT]" "/" ".ycombinator.com" nil])
+ ("nautil.us"
+  [url-cookie "lbh_session" "ZEb9CK61d49Bix9AfyWn%2FDfJeOkl4ou8F%2BRD0IEQAMW40GdZh8QPi7DcoPLTAzIhm7uR8hzzWyedDkBQTQIaMeAqDRa4yfJWx4LOYKA%2B6OCUGgfGTkbyKAtJshj1KEgItdPKP9NnDaxJ%2Fl6N%2BjVHt6WM155FoUkI%2BngcfeZ%2F2WmlTY4195YmsAkUUulFG2AMoMPxOIKK6OT%2Bl50UuxE5o5uhgfVcczYV11rT2DpqchxyOYoSFNT1l21AILzDUY3PPu2WLlTA%2BV%2B83fDAO37q9tF9YMGr3o9vT1M%2FuEunfaA%3D503eb397da6aa29744532364f2a85992a3f91156" "30-Aug-2017 11:23:41.00 GMT" "/" "nautil.us" nil]
+  [url-cookie "Max-Age" "864000" "30-Aug-2017 11:23:41.00 GMT" "/" "nautil.us" nil]))
+)
+(setq url-cookie-secure-storage
+ '((".wikipedia.org"
+  [url-cookie "WMF-Last-Access-Global" "20-Aug-2017" "Thu, 21 Sep 2017 00:00:00 GMT" "/" ".wikipedia.org" t]
+  [url-cookie "HttpOnly" nil "Thu, 21 Sep 2017 00:00:00 GMT" "/" ".wikipedia.org" t])
+ ("en.wikipedia.org"
+  [url-cookie "WMF-Last-Access" "20-Aug-2017" "Thu, 21 Sep 2017 00:00:00 GMT" "/" "en.wikipedia.org" t]
+  [url-cookie "HttpOnly" nil "Thu, 21 Sep 2017 00:00:00 GMT" "/" "en.wikipedia.org" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
